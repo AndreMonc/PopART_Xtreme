@@ -1,0 +1,8 @@
+Sequence	Country	State	Locality	Lat	Long	Plumage
+80394_Rheg_hof_LB_Suc_LB_Aca_LSU_2	Brazil	Amazonas	"Left Bank of Rio Sucunduri, Left Bank lower Rio Acari"	-5.25	-59.68333333	hoffmannsi
+80462_Rheg_hof_LB_Suc_LB_Aca_LSU_2	Brazil	Amazonas	"Left Bank of Rio Sucunduri, Left Bank lower Rio Acari"	-5.25	-59.68333333	hoffmannsi
+80466_Rheg_hof_LB_Suc_LB_Aca_LSU_2	Brazil	Amazonas	"Left Bank of Rio Sucunduri, Left Bank lower Rio Acari"	-5.25	-59.68333333	hoffmannsi
+86755_Rheg_ber_LB_Parauari_MZUSP_2	Brazil	Amazonas	Left Bank Rio Parauari 6 km acima da cachoeira do Tambor	-5.07	-58.03	berlepschi
+86756_Rheg_ber_LB_Parauari_MZUSP_2	Brazil	Amazonas	Right bank of Rio Sucunduri ~34km below BR-230 	-5.07	-58.03	berlepschi
+EF640065_Rheg_gym_Cac_Nazare_FMNH_2	Brazil	Rondonia	"Left Bank of Rio Jiparana, Cachoeira Nazare"	-9.75	-61.92	gymnops
+75472_Rheg_mel_38Cohengua_LSU_2	Peru	Ucayali	Cohengua stunted forest 37.6 km. ESE mouth of Rio Cohengua	-10.41	-73.68	melanosticta

@@ -1,0 +1,9 @@
+Sequence	Locality	Lat	Long	Plumage	Material	Goal
+75229_Rheg_mel_30Cohengua_LSU_2	"Peru, Loreto, 30 km above Cohengua river mouth"	-10.32	-73.7	melanosticta	"Skin, tissue"	UCE
+78088_Rheg_hof_Bararati_LSU_2	"Brazil, Amazonas, Bararati River"	-7.63	-58.29	hoffmannsi	"Skin, tissue"	UCE
+84801_Rheg_hof_30W_Jacareacanga_MZUSP_2	"Brazil, Amazonas, 30 km W of Jacareacanga"	-6.31	-58	hoffmannsi	"Skin, tissue"	RAD-seq
+84802_Rheg_hof_30W_Jacareacanga_MZUSP_2	"Brazil, Amazonas, 30 km W of Jacareacanga"	-6.31	-58	hoffmannsi	"Skin, tissue"	RAD-seq
+84803_Rheg_hof_30W_Jacareacanga_MZUSP_2	"Brazil, Amazonas, 30 km W of Jacareacanga"	-6.31	-58	hybrid	Blood	RAD-seq
+86449_Rheg_hof_RB_Suc_9_LSU_2	"Brazil, Amazonas, Right Bank of Sucunduri River, Camp 9"	-6.25	-59.06	hybrid	Blood	RAD-seq
+86450_Rheg_hof_RB_Suc_9_LSU_2	"Brazil, Amazonas, Right Bank of Sucunduri River, Camp 9"	-6.25	-59.06	hybrid	"Skin, tissue"	RAD-seq
+86653_Rheg_hof_RB_Suc_11_LSU_2	"Brazil, Amazonas, Right Bank of Sucunduri River, Camp 11"	-7.5	-59.08	hybrid	"Skin, tissue"	UCE
