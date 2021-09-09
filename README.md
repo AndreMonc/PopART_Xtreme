@@ -6,7 +6,7 @@
 This is a python program written by Glaucia Del-Rio, Marco Rego, and Andre Moncrieff 
 that aims to increase the general utility of haplotype networks to researchers. 
 Haplotype networks are commonly used to represent population level genetic relatedness 
-between individuals, and they are easy to generate using the freely available program 
+between individuals and they are easy to generate using the freely available program 
 PopART. The networks produced, however, are often cumbersome to interpret. For instance, 
 labels for individuals in the haplotype network are strictly based on the sequence label 
 in the Nexus file passed to PopART. Thus, full locality information, morphological traits, 
