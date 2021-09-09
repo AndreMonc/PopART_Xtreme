@@ -2,7 +2,7 @@
 
 
 
-##Introduction
+## Introduction
 This is a python program written by Glaucia Del-Rio, Marco Rego, and Andre Moncrieff 
 that aims to increase the general utility of haplotype networks to researchers. 
 Haplotype networks are commonly used to represent population level genetic relatedness 
@@ -28,15 +28,15 @@ function to work with the user-customized labels.*)
 
 
 
-##Software Requirements
+## Software Requirements
 - Python 3. We recommend the Anaconda package of Python 3.5 downloadable for free [here](https://www.continuum.io/downloads).
 - PopART. Downloadable for free [here](http://popart.otago.ac.nz/downloads.shtml).
 - Latest version of Bokeh. More information on how to download for free [here](http://bokeh.pydata.org/en/latest/docs/installation.html).
 
 
 
-##Instructions Step-by-Step
-#####Before running PopART_Xtreme.py
+## Instructions Step-by-Step
+##### Before running PopART_Xtreme.py
 - Select a Nexus alignment file for which you would like to produce a haplotype network.
 - Open PopART.
 - Import your Nexus files into PopART (*Click on "nex" icon at top left of pane*).
@@ -47,7 +47,7 @@ networks require a trees block in your Nexus file*).
 - Save log file (Statistics --> Identical sequences --> Yes).
 
 
-#####User input file
+##### User input file
 - Open a new .txt file.
 - Use tab-delimited format.
 - Insert the following four column headers: "Lat", "Long", "Sequence", "Locality".
@@ -58,7 +58,7 @@ displayed as haplotype network labels.
 - Save file.
 
 
-#####Running program on command line
+##### Running program on command line
 - Place PopART_Xtreme.py, and the .txt, .svg, and .log files into the same directory.
 - Command line setup:
 `python PopART_Xtreme.py --SVG some_name.svg --LOG some_name.log --TXT some_name.txt
@@ -68,7 +68,7 @@ map_plot.html file and 2) the some_name.html that contains the haplotype network
 and associated map. The map_plot.html file will automatically open.
 
 
-#####Viewing
+##### Viewing
 - To view the map together with the haplotype network, open the new some_name.html in 
 your web browser of choice.
 - Hover over circles in the haplotype network and map to see your input information.
@@ -76,7 +76,7 @@ your web browser of choice.
 
 
 
-##Acknowledgements
+## Acknowledgements
 - Thanks to Peter Collingridge for some carefully crafted tutorials on the [tooltip 
 function](http://www.petercollingridge.co.uk/interactive-svg-components/tooltip).
 - Thanks to Brant Faircloth for answering various questions regarding this project.
